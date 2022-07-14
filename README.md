@@ -34,7 +34,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
 
 
-#📊GitHub Stats✨
+📊GitHub Stats✨
+
 ![](https://github-readme-stats.vercel.app/api?username=s-sutharsan-20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=s-sutharsan-20&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sutharsan-20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
